@@ -9,7 +9,7 @@
       
       "addon": true,
       "maps": false,
-      "texture": false,
+      "texture": true,
       "skin": true,
       "more": false,
       
@@ -71,13 +71,29 @@
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+    "name": "Not Mowzie's Mobs Addon (B)",
+    "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/5.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie BP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/4.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png"
+  },
+  {
+    "name": "Not Mowzie's Mobs Addon (R)",
+    "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie RP.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/1.png"
+  },
+  {
+    "name": "Minecraft 1.18 Mobs Skin Pack",
+    "role": "At some point during a MINECRAFT game, haven't you seen an axolotl and wanted to become one? Or on the other hand, do you think you would intimidate your enemies by seeing yourself as The Warden? Well then this mob skin pack is for you.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/MINECRAFT_1.18_MOBS_SKIN_PACK.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg"
+  }
   ],
   "Skins": [
     {
