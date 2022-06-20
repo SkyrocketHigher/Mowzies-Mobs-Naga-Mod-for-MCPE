@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": false,
+      "addon": true,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,13 +35,29 @@
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+    "name": "Black FW Addon",
+    "role": "This addon adds a great looking, huge, and extremely powerful armored beast that has many combat poses, is impervious to all sources of damage, is extremely aggressive and attacks all creatures even Armor Stand has not been spared.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/Black FW.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/1.png"
+  },
+  {
+    "name": "Foliaath Addon",
+    "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity. When you kill it, it drops its seeds for you, but don't hope that you can tame it because it will keep attacking you. I hope you like this addon",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/Foliaath Addon.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/1.png"
+  },
+  {
+    "name": "Naga Addon",
+    "role": "This addon adds a ferocious winged snake called Nagas, which lives in coastal cliffs and stony beaches, and is very aggressive towards players as it shoots poisonous acid shells at them.I hope you like this addon",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/Naga.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/1.png"
+  }
   ],
   "Map": [
     {
