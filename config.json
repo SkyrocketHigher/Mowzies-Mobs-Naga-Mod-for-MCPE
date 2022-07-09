@@ -1,108 +1,226 @@
 {
-  "Config": [
+    "Config": [
+      {
+        "interval": 2,
+        "backup": "unity",
+        "status": true,
+        "link": "https://google.com/",
+        "contact": "https://google.com/",
+        
+        "addon": true,
+        "maps": true,
+        "texture": true,
+        "skin": true,
+        "more": false,
+        
+        "admob_open_ads": "ca-app-pub-3044835834543602/1886321729",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3044835834543602/1914505217",
+        "admob_native": "ca-app-pub-3044835834543602/7577632102",
+       
+        
+        "unity_banner": "Banner_Android",
+        "unity_inter": "Interstitial_Android",
+        
+        
+        "applovin_banner": "unitid",
+        "applovin_inter": "unitid",
+        "applovin_native": "unitid",
+        
+        "ironsource_banner": "1215fccad",
+        "ironsource_inter": "1215fccad"
+        
+        
+      }
+    ],
+    "Addon": [
+        {
+            "name": "UNOFFICIAL Mowzie's Mobs V1.5",
+            "role": "This is a Non Official version for Minecraft Bedrock Edition we are not the owners of Original Mowzie's Mobs mod from Java Edition, we have all the perms to do it, this addon is only created by Gabriel Cape and Just Mr Devil.Mowzie's Mobs mod, created originally by Bob mowzie, adds a variety of fictional creatures to Minecraft, priding itself in unique AI, environmental and atmospheric appropriateness, and standard-setting animations.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/UNOFFICIAL Mowzie's Mobs V1.5.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/dua.png"
+        },
+        {
+            "name": "Black FW Addon",
+            "role": "This addon adds a great looking, huge, and extremely powerful armored beast that has many combat poses, is impervious to all sources of damage, is extremely aggressive and attacks all creatures even Armor Stand has not been spared.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/Black FW.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/1.png"
+        },
+        {
+            "name": "Foliaath Addon",
+            "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity. When you kill it, it drops its seeds for you, but don't hope that you can tame it because it will keep attacking you. I hope you like this addon",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/Foliaath Addon.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/1.png"
+        },
+        {
+            "name": "Naga Addon",
+            "role": "This addon adds a ferocious winged snake called Nagas, which lives in coastal cliffs and stony beaches, and is very aggressive towards players as it shoots poisonous acid shells at them.I hope you like this addon",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/Naga.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/1.png"
+        },
+        {
+            "name": "Magical Apples V1",
+            "role": "Are you a fan of Harry Potter or do you like magic? This addon is different than my other addons because its a food and it is useful, because you can eat it and it will make your health full in just 1 secs and each apples has its own effects and all the apples has duration which is 5 minutes.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/5/6.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/5/MagicalApple(R).mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/5/5.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/5/4.png"
+        },
+        {
+            "name": "GRX Tweaks v1.1.9 (UI Overlay Hider + Addon Update!)",
+            "role": "GRX Tweaks for Minecraft: Bedrock Edition for More Features! What is GRX Tweaks? GRX Tweaks is a Minecraft optimization resource pack. It allows Minecraft to run faster and look better with full support for better textures and many configuration options.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/GRXTweaks.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/6/1.png"
+        },
+        {
+            "name": "Night Vision Goggles Addon",
+            "role": "Are you tired of deinking night vision potions the whole time? Then this addon is perfect for you because it adds night vision goggles that you can put on your head and you never have to drink potions every 5 minutes and its also multiplayer compatible.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/2.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1610480761038.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/8/1.png"
+        },
+        {
+            "name": "Merging Items 1.1.7 [Goodlands Update]",
+            "role": "In this addon, you can merge items and make better ones! They are extremely useful as well! If you like the idea of this addon, then read all about it! (Also: Suggest some more items in the comments!)",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/Merging_Items__Version_1.0.4.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/11/1.jpeg"
+        },
+        {
+            "name": "Sapphire Expansion (Beta v9.1.7)",
+            "role": "Im sure you Never wanted more hostile mobs in the game, but what if I told you there are very powerful items and tools in this addon that can aid you in the game and with fighting off the hostile mobs in this addon.Im sure you Never wanted more hostile mobs in the game, but what if I told you there are very powerful items and tools in this addon that can aid you in the game and with fighting off the hostile mobs in this addon.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/1.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/NewSapphireExpansionV9.1.7_1605854732.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/3.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/12/2.png"
+        }
+        
+    ],
+    "Map": [
+      {
+        "name": "",
+        "role": "",
+        "image": "",
+        "file_url": "",
+        "imgcoversatu": "",
+        "imgcoverdua": ""
+      }
+    ],
+    "Texture": [
+        {
+            "name": "Not Mowzie's Mobs Addon (B)",
+            "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/5.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie BP.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/4.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png"
+        },
+        {
+            "name": "Not Mowzie's Mobs Addon (R)",
+            "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie RP.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/1.png"
+        },
+        {
+            "name": "Minecraft 1.18 Mobs Skin Pack",
+            "role": "At some point during a MINECRAFT game, haven't you seen an axolotl and wanted to become one? Or on the other hand, do you think you would intimidate your enemies by seeing yourself as The Warden? Well then this mob skin pack is for you.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/MINECRAFT_1.18_MOBS_SKIN_PACK.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg"
+        },
+        {
+            "name": "Craft Sims (B)",
+            "role": "Craft Sims Introduction Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/Craft Sims BEH.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/1.jpeg"
+        },
+        {
+            "name": "Craft Sims (R)",
+            "role": "Craft Sims Introduction Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/5.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/Craft Sims RES.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/4.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/3.jpeg"
+        },
+        {
+            "name": "John's X-ray (1.16+ Bedrock) Updated with Night Vision",
+            "role": "The 'Xray for 1.16 Bedrock' is made for 1.16+ and  helps you find ores with ease and a lot faster, Can't find any diamonds or any type of ore with the 'X-ray for 1.16+' texture pack you will be able to find most ores faster and quicker.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/4/2.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/4/XRAY_for_1.16.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/4/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/4/1.png"
+        },
+        {
+            "name": "Cave Enhancements Rewritten!",
+            "role": "This add-on completely changes the underground! Introducing NEW cave biomes, mobs, and uses expanding upon the 1.17 and 1.18 updates alike.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/Cave Enhancements Rewritten BP.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/1.png"
+        },
+        {
+            "name": "Cave Enhancements Rewritten!",
+            "role": "This add-on completely changes the underground! Introducing NEW cave biomes, mobs, and uses expanding upon the 1.17 and 1.18 updates alike.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/Cave Enhancements Rewritten RP.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/3/1.png"
+        },
+        {
+            "name": "Minecraft Bedrock...A Drow's Life",
+            "role": "'The Drow'... a mysterious dark elf that lives underground (like Dwarves). They are very magical creatures (usually Evil).",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Night Vision/7/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Night Vision/7/DrowLife_1597579071.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Night Vision/7/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Night Vision/7/1.png"
+        }
+    ],
+    "Skins": [
+      {
+        "id": 5037103077,
+        "name_skin": "Skin Mowzies",
+        "skin_url": "https://lh3.googleusercontent.com/rZzbPEqqwrUX9dnaHgrbwCz3E27PnG_a_-MoB3PtUp5eP0-Ekamn13HHeqhAo4Fo__MS6BCDaO-MbfVe6FXsrtHWAWMSQJtBPX0",
+        "view_skin": "https://lh3.googleusercontent.com/vcdaxQaUfL0G4kskk8mwrgtevHD9VLb98GfpFYbFG9_nlB63lzPq1xBRzankRTq5u8gNxp1W6cntCkuDs--MNFRjfFgSxu5_2VA0"
+    },
     {
-      "interval": 5,
-      "backup": "unity",
-      "status": true,
-      "link": "https://google.com/",
-      "contact": "https://google.com/",
-      
-      "addon": false,
-      "maps": false,
-      "texture": false,
-      "skin": true,
-      "more": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
-      "unity_banner": "Banner_Android",
-      "unity_inter": "Interstitial_Android",
-      
-      
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
-      
-      "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
-      
-      
+        "id": 1753073022,
+        "name_skin": "Skin Mowzies",
+        "skin_url": "https://lh3.googleusercontent.com/0ygOKkLXBtwV82pYSglfCyYz6lieUQbKRTAFF6NjpSrv8l5rq-t-gFo5EaRpOistavHh6f6K4m5_ebYvHA1tAV8",
+        "view_skin": "https://lh3.googleusercontent.com/ISGfr8_P59N6wJV0z8CigV6luH-Kac9IDDyIyKo3Wmrm6zoEN_r_PEOf4xv3n-Ae6efxPHjr0vh8mgNSPYR2Tw"
+    },
+    {
+        "id": 1752863372,
+        "name_skin": "Skin Mowzies",
+        "skin_url": "https://lh3.googleusercontent.com/OSMUT0Lvc1ECdpIrIxEgyz0DAMZWS0GmnsMYPVhE_0A4bWUuIr9sMxGzINJh7liI49EdhHqyABJvwAxfpi-lqOQ",
+        "view_skin": "https://lh3.googleusercontent.com/vqU311so02a5WarPQixo17szCxqDLBmBcg8TVsR0v28TlbZWcbhtHfmLaDVqoGk5wmPG6cBKpvM7h3kLqDTlnQ"
+    },
+    {
+        "id": 1730303665,
+        "name_skin": "Skin Mowzies",
+        "skin_url": "https://lh3.googleusercontent.com/gfm5tIooIEh89Th3Ckag08FZHoZwdxkynJA5kr9RgHmyAaqMQ9IUrhiTsiug07uuN8_9q7xQC-OM3BISP4J_0A",
+        "view_skin": "https://lh3.googleusercontent.com/HCkqtEl3AlkyM2UsbWH4D5HDfz-EmR-KaC6QKGoNlWrzYEGp163pEG2TTbwhSfaCUR00cn3mQw-_AbhvgzLURQ"
     }
-  ],
-  "Addon": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Map": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Texture": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Skins": [
-    {
-    "id": 1,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/rZzbPEqqwrUX9dnaHgrbwCz3E27PnG_a_-MoB3PtUp5eP0-Ekamn13HHeqhAo4Fo__MS6BCDaO-MbfVe6FXsrtHWAWMSQJtBPX0",
-    "view_skin": "https://lh3.googleusercontent.com/vcdaxQaUfL0G4kskk8mwrgtevHD9VLb98GfpFYbFG9_nlB63lzPq1xBRzankRTq5u8gNxp1W6cntCkuDs--MNFRjfFgSxu5_2VA0"
-  },
-  {
-    "id": 2,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/0ygOKkLXBtwV82pYSglfCyYz6lieUQbKRTAFF6NjpSrv8l5rq-t-gFo5EaRpOistavHh6f6K4m5_ebYvHA1tAV8",
-    "view_skin": "https://lh3.googleusercontent.com/ISGfr8_P59N6wJV0z8CigV6luH-Kac9IDDyIyKo3Wmrm6zoEN_r_PEOf4xv3n-Ae6efxPHjr0vh8mgNSPYR2Tw"
-  },
-  {
-    "id": 3,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/OSMUT0Lvc1ECdpIrIxEgyz0DAMZWS0GmnsMYPVhE_0A4bWUuIr9sMxGzINJh7liI49EdhHqyABJvwAxfpi-lqOQ",
-    "view_skin": "https://lh3.googleusercontent.com/vqU311so02a5WarPQixo17szCxqDLBmBcg8TVsR0v28TlbZWcbhtHfmLaDVqoGk5wmPG6cBKpvM7h3kLqDTlnQ"
-  },
-  {
-    "id": 4,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/gfm5tIooIEh89Th3Ckag08FZHoZwdxkynJA5kr9RgHmyAaqMQ9IUrhiTsiug07uuN8_9q7xQC-OM3BISP4J_0A",
-    "view_skin": "https://lh3.googleusercontent.com/HCkqtEl3AlkyM2UsbWH4D5HDfz-EmR-KaC6QKGoNlWrzYEGp163pEG2TTbwhSfaCUR00cn3mQw-_AbhvgzLURQ"
+    
+  
+        
+        
+        ]
   }
-  ],
-  "More":
-  [
-      
-      
   
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://google.com/"
-    }
-  
-
-      
-      
-      ]
-}
